@@ -1,0 +1,35 @@
+.full {
+    background-color: black;
+    color: white;
+    padding: 1px;
+    margin: 40px;
+    border-radius: 10px;
+    letter-spacing: 2px;
+}
+
+.colour {
+    color: hsl(205, 78%, 60%)
+}
+
+.text {
+    font-family: Roboto;
+}
+
+.btn {
+    padding: 12px 20px;
+    background-color: transparent;
+    text-align: center;
+    letter-spacing: 2px;
+    border: 2px solid black;
+}
+
+.container {
+    text-align: center;
+    width: 50%;
+    justify-content: center;
+}
+
+main {
+    display: grid;
+    place-items: center;
+}
